@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://metaoneclick.com/sitemap.xml
