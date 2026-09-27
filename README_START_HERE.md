@@ -15,3 +15,5 @@ Important files:
 Upload/overwrite **all files and folders from this build** at the repository root. The `assets` folder is essential.
 
 After commit, GitHub Pages should redeploy automatically. If not, open Actions/Pages or Settings → Pages and trigger/check the latest deployment.
+
+Brand update: website now uses the selected Option 12-style MetaOneClick logo across header, footer, hero mark, favicon and social preview.
