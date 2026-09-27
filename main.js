@@ -31,7 +31,7 @@
       const subject = `MetaOneClick enquiry — ${fd.get('company') || fd.get('name') || 'New project'}`;
       const status = form.querySelector('.form-status');
       if (status) status.textContent = 'Opening your email app with the project details…';
-      window.location.href = `mailto:hello@metaoneclick.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      window.location.href = `mailto:contact@metaoneclick.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     });
   }
 })();
