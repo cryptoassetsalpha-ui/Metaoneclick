@@ -1,0 +1,1 @@
+Built for static GitHub Pages deployment. Includes responsive visual fixes and preserved project assets. Automated checks cover file references and ZIP integrity only. Live browser/mobile testing, external API responses, and email delivery must be checked after deployment. Back up the existing GitHub repository before replacing files.
