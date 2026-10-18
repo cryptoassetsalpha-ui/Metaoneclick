@@ -1,0 +1,36 @@
+/* MetaOneClick · Light Premium Edition · 2026 */
+body.master{background:#fbfcfe;color:#15283c}
+.master-nav{background:rgba(255,255,255,.96);border-bottom:1px solid #e5eaf0;box-shadow:0 4px 22px rgba(29,51,72,.035)}
+.master-nav nav a{color:#445970}.master-nav nav a:hover{color:#125ca9}
+.master-nav .shell>a:first-child{background:#fff;box-shadow:none;border:1px solid #edf0f5}
+.master .pill{color:#2468a6;background:#eaf4ff;border:1px solid #d3e6fb}
+.master .hero{background:radial-gradient(ellipse at 78% 22%,rgba(172,216,255,.52),transparent 45%),radial-gradient(ellipse at 8% 5%,rgba(228,241,255,.94),transparent 50%),linear-gradient(145deg,#fff 10%,#f3f9ff 65%,#f8fcfa 100%);min-height:600px}
+.master .hero:after{opacity:.12;background-image:linear-gradient(#6484a533 1px,transparent 1px),linear-gradient(90deg,#6484a533 1px,transparent 1px)}
+.master h1,.master h2,.master h3{color:#102a42}
+.master .gradient{background:linear-gradient(95deg,#1365b1 0%,#1a8a9e 55%,#288f79 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.master .lead,.master .section-head p,.master .step p{color:#53677b}
+.master .micro{color:#667c8f}
+.master .btn{border:1px solid #d5e2ec}
+.master .btn-primary{background:#1769ae;color:#fff;border-color:#1769ae;box-shadow:0 10px 26px rgba(23,105,174,.15)}
+.master .btn-secondary{background:#fff;color:#234765;border-color:#ccdce8}
+.master .btn:hover{box-shadow:0 12px 30px rgba(25,78,123,.12)}
+.master .section.soft{background:#f2f7fb}
+.master .kicker{color:#167c9a}
+.master .tile{background:#fff;border:1px solid #e0e9f0;box-shadow:0 8px 24px rgba(36,77,109,.045)}
+.master .tile:hover{border-color:#b4d3e7;box-shadow:0 18px 40px rgba(36,77,109,.11)}
+.master .tile .num,.master .tile .arrow{color:#1374a8}
+.master .tile p{color:#5d7082}
+.master .panel{background:linear-gradient(140deg,#fff,#edf7ff);border:1px solid #dce8f1;box-shadow:0 10px 30px rgba(36,77,109,.04)}
+.master .step span{background:#e1f1ff;color:#155b8f}
+.master .banner{background:linear-gradient(110deg,#e6f5ff,#edf9f3);border:1px solid #d8e9f1;color:#173e54}
+.master .banner p{color:#4d6978}.master .banner .btn{background:#1769ae;border-color:#1769ae;color:#fff}
+.master footer{background:#f1f6fa;color:#52677b;border-top:1px solid #e1e9f0}
+.master footer a:hover{color:#146ca8}.master .footer-note{color:#6c7e8d;border-color:#d9e4ed}
+.master .menu-btn{background:#fff;color:#234765;border:1px solid #ccdce8}
+.master .form-row input,.master .form-row textarea,.master .form-row select{background:#fff;color:#1a3045;border-color:#cbdbe7}
+.master .form-row label{color:#52677b}.master .tag-row span{border-color:#d5e3ec;color:#4c667b}
+.master .orb{background:radial-gradient(circle at 40% 30%,#d6ecff,#9ccbea 55%,#e8f5ff 78%);border:1px solid #bddcef;box-shadow:0 0 0 26px #dcefff77,0 0 0 65px #e8f5ff88,0 22px 75px #6a9ec122}
+.master .orb:before,.master .orb:after{border-color:#6daac588}.master .floating{background:#fff;color:#34536c;border:1px solid #d6e6ef;box-shadow:0 12px 35px #44749c1a}.master .floating b{color:#116b99}
+.master a:focus-visible,.master button:focus-visible{outline:3px solid #208dc0;outline-offset:3px}
+@media(max-width:950px){.master-nav nav{background:#fff;border-bottom:1px solid #e2eaf1;box-shadow:0 14px 25px #2e5b7e12}.master-nav nav a{color:#344c61}}
+@media(max-width:650px){.master .hero{padding:35px 0 50px}.master .hero-grid{padding:32px 0;gap:20px}.master .hero h1{font-size:clamp(42px,11vw,57px);letter-spacing:-.065em;line-height:1.04}.master .hero .lead{font-size:15px!important;line-height:1.6!important}.master .hero .actions{margin-top:22px}.master .hero .btn{padding:13px 15px}.master .hero .orb{width:205px;margin-top:10px}.master .hero .pill{font-size:9px}.master .section{padding:58px 0}.master h2{font-size:clamp(32px,9vw,44px)}}
