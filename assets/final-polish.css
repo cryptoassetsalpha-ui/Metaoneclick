@@ -1,0 +1,11 @@
+/* 2026 final mobile-first visual refinement */
+.master-nav .shell>a:first-child{display:inline-flex;align-items:center;background:#fff;padding:9px 13px;border-radius:15px;box-shadow:0 6px 28px #0003;flex-shrink:0}
+.master-nav .shell>a:first-child img{width:188px;max-height:58px;object-fit:contain}
+.master .hero{min-height:610px;padding:72px 0;background:radial-gradient(ellipse at 77% 28%,#24578a77,transparent 44%),radial-gradient(ellipse at 12% 16%,#172765,transparent 50%),#080e1b}
+.master .hero h1{font-size:clamp(49px,7vw,92px);line-height:1.02;letter-spacing:-.065em}
+.master .hero p{max-width:640px;line-height:1.55}
+.master .btn-primary{box-shadow:0 12px 40px #6fffb433}
+.master a:focus-visible,.master button:focus-visible{outline:3px solid #b9ffdf;outline-offset:4px}
+@media(max-width:760px){.master-nav .shell{min-height:78px;padding-block:9px}.master-nav .shell>a:first-child{padding:8px 10px;border-radius:12px}.master-nav .shell>a:first-child img{width:162px;max-height:44px}.master .hero{padding:52px 0 65px;min-height:auto}.master .hero h1{font-size:clamp(43px,11vw,66px);line-height:1.04;letter-spacing:-.055em;margin:18px 0}.master .hero p{font-size:16px!important;line-height:1.65!important}.master .hero .pill{font-size:9px;letter-spacing:.08em;padding:8px 11px}.master .hero .actions{margin-top:24px;gap:10px}.master .hero .btn{padding:15px 17px}.master .hero-grid{gap:28px}.master .hero-grid>div{min-width:0}}
+@media(max-width:390px){.master-nav .shell>a:first-child img{width:138px}.master .hero h1{font-size:42px}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;scroll-behavior:auto!important}}
